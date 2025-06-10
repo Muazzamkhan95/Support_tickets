@@ -26,3 +26,13 @@ php artisan key:generate
 php artisan migrate
 php artisan db:seed
 php artisan serve
+
+#Access URL's
+
+http::localhost:8000 (For submiting tickets)
+http::localhost:8000/login (For Admin panel login)
+http::localhost:8000/admin (For Admin panel Access)
+
+username: admin@example.com
+password: password
+
